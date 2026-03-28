@@ -16,5 +16,6 @@ class Photo(models.Model):
         return self.description
     
 
+# 44 kaldım
 
 
