@@ -3,6 +3,8 @@ from .models import *
 
 # Create your views here.
 
+
+
 def gallery(request):
     category = request.GET.get('category')
 
